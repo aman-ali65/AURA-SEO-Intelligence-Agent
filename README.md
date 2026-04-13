@@ -1,9 +1,11 @@
-<h1 style="text-align:center !important; margin: auto;"><b>Aura SEO Intelligence Agent</b></h1>
+<div align="center">
+# Aura SEO Intelligence Agent
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-3.1_Flash_Preview-4285F4)
 ![LangChain](https://img.shields.io/badge/LangChain-Agent_Workflow-1C3C3C)
 ![Playwright](https://img.shields.io/badge/Playwright-Web_Automation-2EAD33?logo=playwright&logoColor=white)
+</div>
 
 AI-assisted SEO audit agent that combines website inspection, competitor discovery, performance analysis, and PDF reporting into one project.
 
