@@ -1,4 +1,4 @@
-<h1 style="text-align:center;"><b>Aura SEO Intelligence Agent</b></h1>
+<h1 style="text-align:center !important;"><b>Aura SEO Intelligence Agent</b></h1>
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-3.1_Flash_Preview-4285F4)
