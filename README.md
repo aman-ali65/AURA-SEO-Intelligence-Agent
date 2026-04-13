@@ -1,4 +1,5 @@
 <div align="center">
+  
 # Aura SEO Intelligence Agent
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
