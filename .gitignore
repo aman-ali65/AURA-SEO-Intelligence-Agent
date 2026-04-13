@@ -1,0 +1,45 @@
+# Ignore everything by default and keep only source plus required assets.
+*
+!*/
+!.gitignore
+!README.md
+!requirements.txt
+!.env.example
+!*.py
+!*.ipynb
+!*.txt
+!*.md
+!*.html
+!*.css
+!*.js
+!*.csv
+!*.pkl
+!*.xlsx
+!*.task
+
+# Local secrets and local-only publishing notes
+.env
+.env.*
+!.env.example
+repo.meta.txt
+
+# Python / virtual environment noise
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+venv/
+.venv/
+env/
+Lib/
+Include/
+Scripts/
+share/
+pyvenv.cfg
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
